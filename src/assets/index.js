@@ -10,9 +10,11 @@ import instagram from "./Instagram.png"
 import linkedln from "./LinkedIn.png"
 import youtube from "./youtube.png"
 import facebook from "./Facebook.png"
+import lumiconn_profile from "./lumiconn-profile.png"
+import messsageApp from "./message-app.png"
 
 
 export {
-    javascript, homeImage, react, firebase, designui1, designui2, fooddelivery, phone, instagram, linkedln, youtube, facebook
+    javascript, homeImage, react, firebase, designui1, designui2, fooddelivery, phone, instagram, linkedln, youtube, facebook, lumiconn_profile, messsageApp
 }
 
